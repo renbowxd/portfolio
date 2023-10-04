@@ -1,2 +1,2 @@
 # portfolio
-Bu benim kendimi tanıttım portfolyo websitem
+Bu benim kendimi tanıttığım portfolyo websitem
