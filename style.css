@@ -2,6 +2,14 @@
   font-family: 'Titillium Web', sans-serif;
 }
 
+.bolum1 {
+  background-color: rgba(0, 255, 106, 0.75);
+}
+
+.bolum2 {
+  background-color: rgba(0, 255, 106);
+}
+
 h1 {
   text-align: center;
   font-family: arial;
@@ -53,7 +61,7 @@ li a:hover{
 }
 
 footer {
-  color: #860707;
+  background-color: #860707;
 }
 
 hr {
@@ -73,6 +81,5 @@ hr:after {
   top: -13px;
 }
 
-body {
-  background-color: #55962f
-}
+
+
