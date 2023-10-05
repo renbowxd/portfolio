@@ -48,20 +48,17 @@ ul {
 }
 
 li {
-    float: center;
+    float: none;
 }
 
 li a {
     display: block;
-
+    border: black;
+    border-width: 10px;
     color: rgb(0, 0, 0);
-
     text-align: center;
-
-    padding: 50px 50px;
-
+    padding: 20px 20px;
     text-decoration: none;
-    
     font-family: "Titillium Web', sans-serif";
 }
 
