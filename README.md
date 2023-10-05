@@ -1,4 +1,4 @@
 # Bireysel sosyal medya hesapları
-##Tüm sosyal medya hesaplarını tek sitede toplayabilirsin.
+Tüm sosyal medya hesaplarını tek sitede toplayabilirsin.
 
-###Sitenin demosu için [Buraya tıkla](https://renbow.vercel.app"Heading link")
+Sitenin demosu için https://renbow.vercel.app
