@@ -23,8 +23,6 @@ ul {
 
     font-family: 'Titillium Web', sans-serif;
 
-    
-    
     text-align:center;
     
 }
@@ -36,9 +34,9 @@ li {
 li a {
     border: 1px solid black;
 
-    width:500px;
+    width:300px;
 
-    height:40px;
+    height:75px;
 
     display: block;
 
