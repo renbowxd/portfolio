@@ -19,7 +19,7 @@ div{
 
 menu{
   height: 50px;
-  width: 60%;
+  width: 50%;
   padding: 0px; 
   color: white;
 }
@@ -75,7 +75,11 @@ li a:hover{
 }
 
 footer {
-  background-color: #860707;
+  font-family: 'Titillium Web', sans-serif;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 hr {
