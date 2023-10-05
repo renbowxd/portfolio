@@ -36,7 +36,7 @@ ul {
     padding: 5px 5px;
 
     overflow: hidden;
-
+    font-family: 'Titillium Web', sans-serif;
     
 }
 
@@ -55,8 +55,6 @@ li a {
     padding: 60px 20px;
 
     text-decoration: none;
-    
-    font-family: "Titillium Web', sans-serif";
 }
 
 li a:hover{
