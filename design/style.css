@@ -15,7 +15,7 @@ h1 {
 ul {
     list-style-type: none;
 
-    margin: center;
+    margin: 2;
 
     padding: 5px 5px;
 
@@ -82,10 +82,12 @@ img.yuvarlak {
 }
 
 body{
+  text-align: center;
   background-image: url("https://renbow.vercel.app/design/bg3.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%";
+
 }
 
 
