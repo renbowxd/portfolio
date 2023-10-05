@@ -19,13 +19,6 @@ div{
   color: white;
 }
 
-menu{
-  text-align: center;
-  height: 0px;
-  width: 50%;
-  padding: 0px; 
-  color: white;
-}
 
 h1 {
   text-align: center;
@@ -58,7 +51,7 @@ li a {
 
     text-align: center;
 
-    padding: 20px 20px;
+    padding: 60px 20px;
 
     text-decoration: none;
     
@@ -83,7 +76,7 @@ hr {
   color: #333;
   overflow: visible;
   text-align: center;
-  height: 100px;
+  height: 50px;
 }
 
 
