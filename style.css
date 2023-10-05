@@ -18,8 +18,8 @@ div{
 }
 
 menu{
-  height: 100px;
-  width: 50%;
+  height: 0px;
+  width: 75%;
   padding: 0px; 
   color: white;
 }
