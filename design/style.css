@@ -4,11 +4,10 @@
 
 
 body{
-  background-image: url("design/bg.jpg");
+  background-image: url("https://renbow.vercel.app/design/bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%";
-  
 }
 
 
