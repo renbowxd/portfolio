@@ -81,9 +81,12 @@ hr {
 
 img.yuvarlak {
   border-radius: 50%;
-  padding: 60px 20px;
   height: 125px;
   width: 125px;
   object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
