@@ -2,13 +2,13 @@
   font-family: 'Titillium Web', sans-serif;
 }
 
-.bolum1 {
-  background-color: rgba(0, 255, 106, 0.75);
+
+body{
+  background-image: "desing/bg.jpg";
+  background-repeat: none;
 }
 
-.bolum2 {
-  background-color: rgba(0, 255, 106);
-}
+
 
 div{
   height: 200px;
@@ -19,7 +19,7 @@ div{
 
 menu{
   text-align: center;
-  height: 10px;
+  height: 0px;
   width: 35%;
   padding: 0px; 
   color: white;
