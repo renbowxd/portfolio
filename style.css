@@ -72,3 +72,7 @@ hr:after {
   position: relative;
   top: -13px;
 }
+
+body {
+  background-color: #860707
+}
