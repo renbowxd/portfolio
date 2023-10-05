@@ -4,12 +4,6 @@
 
 
 
-
-
-
-
-
-
 h1 {
   text-align: center;
   font-family: arial;
@@ -26,7 +20,11 @@ ul {
     padding: 5px 5px;
 
     overflow: hidden;
+
     font-family: 'Titillium Web', sans-serif;
+
+    width:300px
+    
     
 }
 
@@ -36,6 +34,11 @@ li {
 
 li a {
     border: 1px solid black;
+
+    width:300px;
+
+    height:300px;
+
     display: block;
 
     color: rgb(0, 0, 0);
