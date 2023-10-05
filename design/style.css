@@ -48,7 +48,7 @@ ul {
 }
 
 li {
-    float: right;
+    float: center;
 }
 
 li a {
@@ -58,7 +58,7 @@ li a {
 
     text-align: center;
 
-    padding: 28px 36px;
+    padding: 50px 50px;
 
     text-decoration: none;
     
@@ -84,14 +84,6 @@ hr {
   overflow: visible;
   text-align: center;
   height: 10px;
-}
-
-hr:after {
-  background: #fff;
-  content: '★';
-  padding: 0 3px;
-  position: relative;
-  top: -13px;
 }
 
 
