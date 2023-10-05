@@ -10,6 +10,13 @@
   background-color: rgba(0, 255, 106);
 }
 
+div{
+  height: 200px;
+  width: 100%;
+  padding: 0px; 
+  color: white;
+}
+
 h1 {
   text-align: center;
   font-family: arial;
